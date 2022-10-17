@@ -37,18 +37,18 @@ Source: [Interpretation](https://cloud.google.com/translate/automl/docs/evaluate
 
 
 ## Snapshots
-### Wise Translator Translations (1)
+### Wise Translator's Translation (1)
 ![aa](https://user-images.githubusercontent.com/49169365/196082017-8e2c1c9d-b7d8-47a4-8b9d-ee0389c275ce.PNG) 
 
-### Google Translator Translations (1)
+### Google Translator's Translation (1)
 ![aa_](https://user-images.githubusercontent.com/49169365/196082020-395f9b4d-c2b5-49af-9a31-e5aeace929c2.PNG)
 
-### Wise Translator Translations (2)
+### Wise Translator's Translation (2)
 ![d](https://user-images.githubusercontent.com/49169365/196082023-1f772c7a-5d8c-4434-aa3b-10adb589aa08.PNG)
 
-### Google Translator Translations (2)
+### Google Translator's Translation (2)
 ![d_](https://user-images.githubusercontent.com/49169365/196082025-fe8c51cb-6cbc-46e3-9921-e0db6c51143d.PNG)
 
-### Competitive summary between both translators
+### Competitive translations between both translators
 ![Results](https://user-images.githubusercontent.com/49169365/196082027-0f98d913-803d-4dc4-8a53-ac2ab6a350d8.PNG)
 
