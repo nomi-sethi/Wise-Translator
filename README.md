@@ -6,13 +6,17 @@
 ## About
 In this project, we are planning to develop a bi-lingual translation application which will take the text in either Urdu or English, and will provide the concise and relevant translation in other language respectively.
 
-With everything moving towards automation in today’s world, we saw a gap since there is a dearth of online real-time applications that translate between Urdu and English text except for a few. We plan to develop a web application which will translate Urdu text to English and vice versa. The main use case of this application is to act as a bridge between the two languages. As we are working on the pure concepts of NLP (Natural Language Processing) and we have targeted the two specific languages one is English an international language and other one is Urdu our national language. By our project as there is not sufficient work done on Urdu at academic level or at National level but by this project, there will be a chance and opportunity that people will get help from this and can use our provided API and gathered datasets for their development concerns and with the help of that learning, many people will get served and become able to explore this side of computer science and its applications.
+With everything moving towards automation in today’s world, we saw a gap since there is a dearth of online real-time applications that translate between Urdu and English text except for a few. We aim to develop a web application which will translate Urdu text to English and vice versa. The main use case of this application is to act as a bridge between the two languages. As we are working on the pure concepts of NLP (Natural Language Processing) and we have targeted these two specific languages one is English an international language and other one is Urdu our national language. There is sufficient work done on Urdu at academic level as well as National level but by this project, there will be a chance and opportunity that people will get help from this and can use our provided API and gathered datasets for their development concerns and with the help of that learning, many people will get served and become able to explore this side of computer science and its applications.
 
 ## Objectives 
 * To provide a platform for quick translation which is necessary for the spread of knowledge and ideas 
 * To lay out an initiative which will help others in future 
 * To help subtitle generation and API will help the people to get subtitles easily
 * To make Urdu a stand able language because it is our national language which needs to be prevailed
+
+By now after achieving our goals, essential knowledge about TensorFlow, Python, Google Colab and different techniques of NLP (Natural Language Processing) has been attained. And with that exposure, we became able to apply the core Deep Learning and machine learning techniques for training our Transformer (Model). And we learned how to gather datasets, how to clean them and there were many difficulties as well. But, in the end, we’ll say we have learnt a lot by this project. We intend to keep it on as learning is just like improving youself everyday.
+
+The datasets we’ve gathered so far are cited in our report. We've gathered almost 2.5Million parallel sentences data till date. We’ve trained our model on it using GPUs with different batch sizes and it is giving efficient results. 
 
 ## Implementation Details
 ### [Understanding the BLEU Score Evaluation Metric](https://cloud.google.com/translate/automl/docs/evaluate#bleu)
